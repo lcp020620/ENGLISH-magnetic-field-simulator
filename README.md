@@ -74,7 +74,9 @@ This project implements High-performance computations via **NVIDIA GPU(CUDA)**
 ---
 
 ## 🤝 Any Help is Welcome!
-This project was born out of academic curiosity, and any feedback and assistance on these issues below is welcome!
+This project is a one-person project developed to provide students with an academic tool to study magnetic fields for free.
+
+Any feedback and assistance on these issues below is welcome!
 
 1. **Magnetic field line visualization**: Need to visualize smooth lines, instead of dirty/unintuitive arrows.
 2. `.exe` **format packaging**: [PyInstaller](https://pyinstaller.org) crashes if I try to export this project into single `.exe` package.
