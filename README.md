@@ -74,7 +74,7 @@ This project implements High-performance computations via **NVIDIA GPU(CUDA)**
 ---
 
 ## 🤝 Any Help is Welcome!
-This project is a one-person project developed to provide students with an academic tool to study magnetic fields for free.
+This project is a one-person project developed to provide students an academic tool to study magnetic fields for free.
 
 Any feedback and assistance on these issues below is welcome!
 
