@@ -26,7 +26,7 @@ For **research** and **education** purpose, you can use this whatever you like. 
 ---
 
 ## **Introduction & Google Colab**
-Youtube video instructions are ready! (English subtitle is ready)
+Youtube video instructions are ready! Click image to watch. (English subtitle is ready)
 
 | 🎥 Overall Instruction | 💻 How to use this on Google Colab |
 | :---: | :---: |
